@@ -78,11 +78,11 @@ TestBaseModel class:
 * `def test_diff_datetime_objs(self)` - Test that two BaseModel instances have different datetime objects
 
 [/test_models/test_amenity.py](/tests/test_models/test_amenity.py) - Contains the TestAmenityDocs class:
-* `def setUpClass(cls)` - Set up for the doc tests
-* `def test_pep8_conformance_amenity(self)` - Test that models/amenity.py conforms to PEP8
-* `def test_pep8_conformance_test_amenity(self)` - Test that tests/test_models/test_amenity.py conforms to PEP8
-* `def test_amenity_module_docstring(self)` - Test for the amenity.py module docstring
-* `def test_amenity_class_docstring(self)` - Test for the Amenity class docstring
+* `def setUpClass(cls)` - Set up for the doc tests.
+* `def test_pep8_conformance_amenity(self)` - Test that models/amenity.py conforms to PEP8.
+* `def test_pep8_conformance_test_amenity(self)` - Test that tests/test_models/test_amenity.py conforms to PEP8.
+* `def test_amenity_module_docstring(self)` - Test for the amenity.py module docstring.
+* `def test_amenity_class_docstring(self)` - Test for the Amenity class docstring.
 
 [/test_models/test_city.py](/tests/test_models/test_city.py) - Contains the TestCityDocs class:
 * `def setUpClass(cls)` - Set up for the doc tests
@@ -102,8 +102,8 @@ TestBaseModel class:
 * `def setUpClass(cls)` - Set up for the doc tests
 * `def test_pep8_conformance_place(self)` - Test that models/place.py conforms to PEP8.
 * `def test_pep8_conformance_test_place(self)` - Test that tests/test_models/test_place.py conforms to PEP8.
-* `def test_place_module_docstring(self)` - Test for the place.py module docstring
-* `def test_place_class_docstring(self)` - Test for the Place class docstring
+* `def test_place_module_docstring(self)` - Test for the place.py module docstring.
+* `def test_place_class_docstring(self)` - Test for the Place class docstring.
 
 [/test_models/test_review.py](/tests/test_models/test_review.py) - Contains the TestReviewDocs class:
 * `def setUpClass(cls)` - Set up for the doc tests
